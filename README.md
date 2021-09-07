@@ -44,6 +44,8 @@ The **Timeline** `t` is the result of all `p` in the system.
 ### Rendering
 Display each `p` in returned order from `a` to the End User, ordered from top of the viewport to bottom.
 
+![Timeline](/img/timeline.png?raw=true)
+
 -----
 
 ## Caveats
