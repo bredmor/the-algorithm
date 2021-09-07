@@ -16,6 +16,8 @@ Each `p` has a **Timestamp** `z`.
 
 The **Timeline** `t` is the result of all `p` owned by `f`.
 
+![Case Alpha](/img/case_alpha.png?raw=true)
+
 > #### Case β
 Suppose each **User** `u` owns `>=0` **Posts** `p`.
 
@@ -23,6 +25,7 @@ Each `p` has a **Timestamp** `z`.
 
 The **Timeline** `t` is the result of all `p` in the system.
 
+![Case Beta](/img/case_beta.png?raw=true)
 -----
 
 ### Selection
@@ -31,6 +34,8 @@ The **Timeline** `t` is the result of all `p` in the system.
 1. Limit the selection of `p` from `t` to **Total number of `p` to show per loading call** `x`.
 2. As `a`, for the current time `c`, order `p` by `z` in descending order.
 3. Return `a` as the call result.
+
+![Selection](/img/selection.png?raw=true)
 
 -----
 
