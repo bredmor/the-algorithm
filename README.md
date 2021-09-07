@@ -1,4 +1,4 @@
-# the-algorithm
+# The Algorithm
 ![The Algorithm](/img/logo.png?raw=true)
 
 The perfect algorithm for sorting posts on social media timelines. A powerful sort that almost magically shows every user what they want to see based on their interests. Free to use and adapt to your favorite datastore!
