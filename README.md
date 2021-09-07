@@ -52,3 +52,6 @@ Display each `p` in returned order from `a` to the End User, ordered from top of
 - End Users may not initially understand this selection of Posts. Most social media users expect a semi-random display of Posts and having a predictable selection of content from Users they expect, in the order they were posted may confuse them.
 - End Users may see Posts from Users they assumed died or left your site entirely.
 - You may see a stark decrease in engagement with your Support team, specifically a lack of messages complaining about not seeing friends posts. Not to worry, this is normal.
+
+## Contributing
+You can help by not changing this algorithm at all, not using any other algorithm and by listening to the feedback your users give you.
